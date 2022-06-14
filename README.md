@@ -1,9 +1,9 @@
 # Welcome! 👋 👋
 
 <img src="https://raw.githubusercontent.com/pkhamre/pkhamre/main/banner-high.png" alt="banner that says Pål-Kristian Hamre - senior cloud devops engineer and content creator alongside a simple logo illustration">
-Hello there, I am a senior cloud devops engineer passionate about technology. Blabla rest of story coming soon..
+Hello there, I am a senior devops engineer passionate about technology. Working with Kubernetes and cloud technology.
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning programming and TypeScript
 - 💬 Ask me about anything
 - ⚡ Fun fact: I also do photography and sourdough baking
 
