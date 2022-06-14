@@ -8,7 +8,7 @@ Hello there, I am a senior cloud devops engineer passionate about technology. Bl
 - ⚡ Fun fact: I also do photography and sourdough baking
 
 ## My presence around the internet 🌎:
-- Streaming occasionally on Twitch <a href="https://www.twitch.tv/uglen">Twitch</a> 📹
+- Streaming occasionally on Twitch <a href="https://www.twitch.tv/uglen">Uglen</a> 📹
 - Might Tweet some times <a href="https://twitter.com/pkhamre">@pkhamre</a> 🐦
 - Writing short updates on <a href="https://www.linkedin.com/in/pkhamre/">LinkedIn</a> 💼
 - I publish some photos on <a href="https://www.pkhamre.com/">my private photoblog</a> 📸
