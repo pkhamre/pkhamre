@@ -1,6 +1,6 @@
 # Welcome! 👋 👋
 
-<img src="https://raw.githubusercontent.com/pkhamre/pkhamre/master/github-pkhamre.png" alt="banner that says Pål-Kristian Hamre - senior cloud devops engineer and content creator alongside a simple logo illustration">
+<img src="https://raw.githubusercontent.com/pkhamre/pkhamre/main/github-pkhamre.png" alt="banner that says Pål-Kristian Hamre - senior cloud devops engineer and content creator alongside a simple logo illustration">
 Hello there, I am a senior cloud devops engineer passionate about technology. Blabla rest of story coming soon..
 
 - 🌱 I’m currently learning TypeScript
