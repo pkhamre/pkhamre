@@ -11,5 +11,6 @@ Hello there, I am a senior devops engineer passionate about technology. Working 
 - Streaming occasionally on Twitch <a href="https://www.twitch.tv/uglen">Uglen</a> 📹
 - Might Tweet some times <a href="https://twitter.com/pkhamre">@pkhamre</a> 🐦
 - Writing short updates on <a href="https://www.linkedin.com/in/pkhamre/">LinkedIn</a> 💼
+- Sometimes Blogging at <a href="https://blog.pkhamre.com/">blog.pkhamre.com</a> 📓
 - I publish some photos on <a href="https://www.pkhamre.com/">my private photoblog</a> 📸
 - My Flickr account <a href="https://www.flickr.com/photos/pkhamre/">@pkhamre</a> 📷
