@@ -8,7 +8,6 @@ Hello there, I am a devops engineer passionate about technology. Working with Ku
 - ⚡ Fun fact: I also do photography and sourdough baking
 
 ## My presence around the internet 🌎:
-- Streaming occasionally on Twitch as <a href="https://www.twitch.tv/uglen">Uglen</a> 📹
 - Might Tweet some times as <a href="https://twitter.com/pkhamre">@pkhamre</a> 🐦
 - Some times writing short updates on <a href="https://www.linkedin.com/in/pkhamre/">LinkedIn</a> 💼
 - Occasionally blogging at <a href="https://blog.pkhamre.com/">blog.pkhamre.com</a> 📓
