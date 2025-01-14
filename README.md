@@ -10,6 +10,6 @@ Hello there, I am a devops engineer passionate about technology. Working with Ku
 ## My presence around the internet 🌎:
 - Might Tweet some times as <a href="https://twitter.com/pkhamre">@pkhamre</a> 🐦
 - Some times writing short updates on <a href="https://www.linkedin.com/in/pkhamre/">LinkedIn</a> 💼
-- Occasionally blogging at <a href="https://its.pkhamre.com/">its.pkhamre.com</a> 📓
+- Occasionally blogging at <a href="https://blog.pkhamre.com/">blog.pkhamre.com</a> 📓
 - I publish some photos on <a href="https://www.pkhamre.com/">my private photoblog</a> 📸
 - And some times to my Flickr account <a href="https://www.flickr.com/photos/pkhamre/">@pkhamre</a> 📷
