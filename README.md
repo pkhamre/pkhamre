@@ -1,9 +1,9 @@
 # Welcome! 👋 👋
 
 <img src="https://raw.githubusercontent.com/pkhamre/pkhamre/main/github-pkhamre.png" alt="banner that says Pål-Kristian Hamre - devops engineer and content creator alongside a simple logo illustration">
-Hello there, I am a senior platform engineer passionate about technology. Working with Kubernetes and cloud technology.
+Senior Platform Engineer · Building web apps, mobile apps and infra — often with AI. YouTube: @itspkhamre
 
-- 🌱 I’m currently learning TypeScript & Svelte
+- 🌱 I’m currently building: carouselify, pushr10k, and opencode-docker
 - 💬 Ask me about anything
 - ⚡ Fun fact: I also do photography and sourdough baking
 
