@@ -1,11 +1,9 @@
 # Welcome! 👋 👋
 
 <img src="https://raw.githubusercontent.com/pkhamre/pkhamre/main/github-pkhamre.png" alt="banner that says Pål-Kristian Hamre - devops engineer and content creator alongside a simple logo illustration">
-Senior Platform Engineer · Building web apps, mobile apps and infra — often with AI. YouTube: @itspkhamre
+Senior Platform Engineer · Building web apps, mobile apps and infra with (and without) AI. YouTube: @itspkhamre
 
-- 🌱 I’m currently building: carouselify, pushr10k, and opencode-docker
-- 💬 Ask me about anything
-- ⚡ Fun fact: I also do photography and sourdough baking
+I’m currently building: opencode-container, carouselify, and a whole lot of small ideas and projects.
 
 ## My presence around the internet 🌎:
 - My YouTube channel <a href="https://www.youtube.com/@itspkhamre">@itspkhamre</a>
